@@ -1,2 +1,2 @@
 # AntsSimulator
-simple cellular automata, allegro + MPI
+cellular automata, allegro + MPI
