@@ -89,7 +89,6 @@ void dropFood(int* foodPosition) {
 	foodPosition[0] = x;
 	foodPosition[1] = y;
 	foodPosition[2] = dimension;
-	//al_draw_filled_circle(x, y * y, 5, al_map_rgb(135, 206, 235));
 }
 
 void drawFood(int* foodPosition) {
